@@ -1,12 +1,8 @@
-# FiveRoom
-Introduction: 
-1. dynamic lights controlded with RGB
-2. light map
-3. normal map
-4. billboard
-5. obj file loader
+# Rooooom
+👉Introduction👈  
+Five rooms made with openGL, including rgb light, light map, normal map, billboard, object file loader
 
-Made with: OpenGL  
-More: https://aekly268.github.io/OpenGLWorks/
+✏️Dev log✏️  
+https://bunnygame.tw/opengl/
 
 [<img src="https://img.youtube.com/vi/NipZ8obWtD8/hqdefault.jpg">](https://youtu.be/NipZ8obWtD8)
